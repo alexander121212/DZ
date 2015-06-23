@@ -1,0 +1,67 @@
+The first proposal for the WWW was made at CERN by Tim Berners-Lee in 1989, and further refined by him and Robert Cailliau in 1990.
+
+By the end of that year, prototype software for a basic system was already being demonstrated. To encourage its adoption, an interface to the CERN Computer Centre's documentation, to the "help service" and also to the familiar Usenet newsgroups was provided.
+
+The first web servers were all located in European physics laboratories and only a few users had access to the NeXT platform on which the first browser ran. CERN soon provided a much simpler browser, which could be run on any system.
+
+In 1991, an early www system was released to the high energy physics community via the CERN program library. It included the simple browser, web server softwares and a library, implementing the essential functions for developers to build their own software. A whole range of universities and research laboratories started to use it. A little later it was made generally available via the Internet, especially to the community of people working on hypertext systems.
+
+The first web server in the United States came on-line in December 1991, once again in a pure research institute: the Stanford Linear Accelerator Center (SLAC) in California.
+
+At this stage, there were essentially only two kinds of browser. One was the original development version, very sophisticated but only available on the NeXT machines. The other was the "line-mode" browser, which was easy to install and run on any platform but limited in power and user-friendliness. It was clear that the small team at CERN could not do all the work needed to develop the system further, so Tim Berners-Lee launched a plea via the Internet for other developers to join in.
+
+Several individuals wrote browsers, mostly for the X-window system. The most notable from this era are MIDAS by Tony Johnson from SLAC, Viola by Pei Wei from O'Reilly, Erwise by the Finns from the Helsinki University of Technology.
+
+Early in 1993, the National Center for Supercomputing Applications (NCSA) at the University of Illinois released a first version of their Mosaic browser. This software ran in the X Window System environment, popular in the research community, and offered friendly window-based interaction. Shortly afterwards NCSA released versions also for the PC and Macintosh environments. The existence of reliable user-friendly browsers on these popular computers had an immediate impact on the spread of WWW. The European Commission approved its first Web project (WISE) at the end of the same year, with CERN as one of the partners. By late 1993 there were over 500 known web servers, and WWW accounted for 1% of Internet traffic, which seemed a lot in those days! (the rest was remote access, e-mail and file transfer)
+
+1994 really was the "Year of the Web". The world's First International World-Wide Web conference was held at CERN in May. It was attended by 400 users and developers, and was hailed as the "Woodstock of the Web". As 1994 progressed, Web stories got into all the media. A second conference, attended by 1300 people, was held in the US in October, organised by NCSA and the already created International WWW Conference Committee (IW3C2).
+
+By the end of 1994, the Web had 10,000 servers, of which 2,000 were commercial, and 10 million users. Traffic was equivalent to shipping the entire collected works of Shakespeare every second. The technology was continually extended to cater for new needs. Security and tools for e-commerce were the most important features soon to be added.
+
+In such contest, an essential point was that the Web should remain an open standard for all to use and for no-one to lock up into a proprietary system.
+
+In this spirit, CERN submitted a proposal to the Commission of the European Union under the ESPRIT programme: "WebCore". The goal of the project was an International Consortium, in collaboration with the US Massachusetts Institute of Technology (MIT). Tim Berners-Lee officially left CERN at the end of 1994 to work on the Consortium from the MIT base. But with approval of the LHC project clearly in sight, it was decided that further Web development was an activity beyond the Laboratory's primary mission. A new home for basic Web work was needed.
+
+The European Commission turned to the French National Institute for Research in Computer Science and Controls (INRIA), to take over the role of CERN.
+
+In January 1995, the International World-Wide Web Consortium (W3C) was founded "to lead the World Wide Web to its full potential by developing common protocols that promote its evolution and ensure its interoperability".
+
+W3C, run jointly by MIT/LCS in the United States, INRIA in France, and Keio University in Japan, in 2002 had more than 500 Member organizations from around the world.
+
+In 1995 Tim and Robert shared the Association for Computing (ACM) Software System Award for developing the World-Wide Web with M.Andreesen and E.Bina of NCSA
+
+The Web and the Internet
+
+The Web is not identical to the Internet; it is only one of the many Internet-based communication services.
+
+The relation between them may be understood by using the analogy with the global road system.
+
+On the Internet, as in the road system, three elements are essential: the physical connections (roads and cables), the common behaviour (circulation rules and Internet protocol) and the services (mail delivery and the WWW).
+
+The physical connections: cables and roads
+
+Cables are a passive infrastructure, laid down locally by governments and telecoms companies. Cables have different capacity: a single telephone line like the one leading from your home can handle about 7 kilobytes per second, the equivalent of a page of text per second. Optical fibres handle well into the thousand millions of bytes per second.
+
+Although the cables may be of different types and the junctions may be very complicated, they are all interconnected.
+
+On the roads it is possible for you to drive from home out to a far away place, perhaps in another country, passing from highways to country roads. Similarly, you can find a continuous connection through several interchange nodes between your computer at home and the one of a friend in Australia.
+
+The common behaviour: the Internet
+
+Connecting computers to the cables is not enough: to be able to talk to each other they have to agree on a common way of behaving, just like we do when we drive our cars on the roads. The Internet is like the traffic rules: computers must use the cables in an agreed fashion.
+
+Thousands of cars can use the same roads even if they all have different destinations; no problems arise as long as on the road everybody drives on one side, stop for red traffic lights and so on.
+
+The Internet transfers data in little packets between computers. To use the cables between them profitably, computers must obey rules too: they have to use the same communication protocol.
+
+A communication protocol is something you are familiar with if you have ever talked to someone: in a conversation, people know when to start speaking, when to stop, which sounds to make to encourage the other person to continue, and so on. This is an implicit "protocol" for humans. Computers exchanging data over cables need a similar set of rules for behavior.
+
+To be "connected to the Internet", a computer must respect the Internet protocols. It can do so if a compatible layer of software has been installed on it. The common protocol for the Internet is called the Transmission Control Protocol / Internet Protocol or TCP/IP.
+
+Services for everyone
+
+Once you have the cables and the protocol to use them, your computer can communicate with all the others. But what can they say to each other?
+
+You can use the roads to drive on as an individual, you can run scheduled bus lines, transport heavy goods, you can even run a pizza delivery service. Similarly, on the Internet, you can run data services: electronic mail, file transfer, remote log-in, bulletin boards, …
+
+The World-Wide Web is just one of them, a bit like a "parcel delivery service": at your request, the WWW will deliver you the required document.
